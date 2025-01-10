@@ -9,9 +9,6 @@ const morgan=require('morgan')
 
 const pruebaRouter = require('./routes/pruebaRoute')
 
-
-
-
 const cors = require("cors")
 
 
